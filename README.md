@@ -43,7 +43,7 @@ En base al comportamiento de este agente es cómo podremos deteminar el desempe�
 
 En base a la posición de este agente es de donde saldrán los coches, el agente tendrá un tipo de destino programado y cuando un destino requiera de un coche lo hará aparecer.
 
-|Función del agente    | Descripción     | Relación ]
+|Función del agente    | Descripción     | Relación |
    | ------------- | -------- | ----------|
    | Decisión Reactiva   | Si un agente objetivo solicita un coche hace que aparezca un coche en su posición con el objetivo como destino | Agentes objetivo y agentes de coche |
 
@@ -51,7 +51,7 @@ En base a la posición de este agente es de donde saldrán los coches, el agente
 
 Este agente representa cualquier tipo de tienda, entretenimiento, etc. A donde podría dirigirse un auto. Constantemente solicita la presencia de coches y registra el tiempo que se tardan en llegar a su destino.
 
-|Función del agente    | Descripción     | Relación ]
+|Función del agente    | Descripción     | Relación |
    | ------------- | -------- | ----------|
    | Decisión Proactiva   | De forma aleatoria solicita la presencia de coches | Coches y Casas |
    | Decisión Reactiva | Registra el tiempo que se tardó un coche en llegar al objetivo | Coches |
@@ -60,13 +60,13 @@ Este agente representa cualquier tipo de tienda, entretenimiento, etc. A donde p
 
 Este agente simplemente define el camino sobre el cual pueden transitar los coches.
 
-|Función del agente    | Descripción     | Relación ]
+|Función del agente    | Descripción     | Relación |
    | ------------- | -------- | ----------|
    
 ### A5: Semáforo (Opcional)
 
 Este agente se encargará del tráfico en intersecciones, los coches deberán detenerse cuando el estado del semáforo represente "Rojo" y podrán avanzar cuando el estado del semáforo represente "Verde"
-   |Función del agente    | Descripción     | Relación ]
+   |Función del agente    | Descripción     | Relación |
    | ------------- | -------- | ----------|
    | Estado   | El estado del semáforo "Verde" o "Rojo". | A pesar de afectar a los coches, en la parte técnica no es necesario tomarlos en cuenta. |
    | Decisión Proactiva | Sincronizarse con otros semáforos que pertenezcan a un mismo grupo a criterio del usuario | Otros agentes de semáforos |
