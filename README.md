@@ -73,21 +73,21 @@ Este agente se encargará del tráfico en intersecciones, los coches deberán de
 ## Plan de trabajo
 **Objetivos clave**
 
-* [] Crear el agente de coche
-* [] Crear el agente de casa
-* [] Crear el agente de objetivo
-* [] Crear el agente de calle
-* [] Crear las funciones de coche
-* [] Crear las funciones de casa
-* [] Crear las funciones de objetivo
-* [] Recopilar datos
-* [] Presentar datos
+* [ ] Crear el agente de coche
+* [ ] Crear el agente de casa
+* [ ] Crear el agente de objetivo
+* [ ] Crear el agente de calle
+* [ ] Crear las funciones de coche
+* [ ] Crear las funciones de casa
+* [ ] Crear las funciones de objetivo
+* [ ] Recopilar datos
+* [ ] Presentar datos
 
 **Objetivos opcionales**
 
-* [] Crear el agente de semáforos
-* [] Crear las funciones de semáforos
-* [] Considerar variables extras como estacionamientos
+* [ ] Crear el agente de semáforos
+* [ ] Crear las funciones de semáforos
+* [ ] Considerar variables extras como estacionamientos
    
 
 
