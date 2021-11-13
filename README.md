@@ -3,6 +3,7 @@
 ## Integrantes
 
 Jorge Cabiedes Acosta - A01024053
+
 José Granger Salgado - A01023661
 
 ### Expectativas
